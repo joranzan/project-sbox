@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\SSAFY\source\repos\scenario_save\scenario_save\serial.h(6,13): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  scenario_save.vcxproj -> C:\Users\SSAFY\source\repos\scenario_save\x64\Debug\scenario_save.exe
