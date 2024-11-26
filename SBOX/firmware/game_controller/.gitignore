@@ -1,0 +1,8 @@
+# https://github.com/github/gitignore/blob/master/C.gitignore
+
+.mxproject
+.metadata
+#.settings
+[Rr]elease
+[Dd]ebug
+*.launch
